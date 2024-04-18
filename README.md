@@ -1,4 +1,10 @@
-<h2 align="left">Hi there 👋</h2>
+# Hi there, I'm Ahmed Hamada! 👋
+
+I'm a passionate software engineer with a love for clean code, problem-solving, and continuous learning. My journey in the tech world has led me to explore various domains, from web development to machine learning. Welcome to my GitHub profile!
+###
+
+<img align="right" height="150" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
+
 
 ###
 
@@ -7,11 +13,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed507&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 
 ###
+
+## Technologies
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,6 +56,8 @@
 </div>
 
 ###
+
+## Connect with me
 
 <div align="left">
   <a href="ahmedhamadaa" target="_blank">
