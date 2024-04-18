@@ -60,7 +60,7 @@ I'm a passionate software engineer with a love for clean code, problem-solving, 
 ## Connect with me
 
 <div align="left">
-  <a href="ahmedhamadaa" target="_blank">
+  <a href="http://discordapp.com/users/480373930239066132" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ahmmed-hamada/" target="_blank">
