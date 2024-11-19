@@ -6,7 +6,7 @@ I'm a passionate software engineer with a love for clean code, problem-solving, 
 <div align="left">
   <img align="right" height="150" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 
-  <img src="https://streak-stats.demolab.com?user=ahmed507&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmed507&hide_border=true" height="150" alt="GitHub Streak" />
 
 </div>
 
